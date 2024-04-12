@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">rohith_s_application</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_restaurants_that">Restaurants that suits to your palate</string>
+  <string name="lbl_vegan">Vegan</string>
+  <string name="lbl_search">Search</string>
+  <string name="msg_chicken_chettinad">Chicken Chettinad Hober Field</string>
+  <string name="lbl_cuisines">Cuisines</string>
+  <string name="lbl_indian">Indian</string>
+  <string name="lbl_mediterranean">Mediterranean</string>
+  <string name="lbl_diet">Diet</string>
+  <string name="msg_chicken_beedwala">Chicken Beedwala Hober Field</string>
+  <string name="msg_non_vegetarian">Non Vegetarian | Indian | Meat</string>
+  <string name="lbl_chicken">Chicken</string>
+  <string name="lbl_restaurants">Restaurants</string>
+  <string name="lbl_vegetarian">Vegetarian</string>
+  <string name="lbl_beef">Beef</string>
+  <string name="lbl_cooking">Cooking</string>
+  <string name="lbl_view_all">View All</string>
+  <string name="lbl_proteins">Proteins</string>
+  <string name="lbl_apply_filters">Apply Filters</string>
+  <string name="lbl_messages">Messages</string>
+  <string name="lbl_filters">Filters</string>
+  <string name="msg_good_morning_mr">Good Morning
+Mr. Joe!</string>
+  <string name="lbl_non_vegetarian">Non-Vegetarian</string>
+  <string name="msg_satisfy_your_cravings">Satisfy your Cravings</string>
+  <string name="msg_chicken_saagwala">Chicken Saagwala Hober Field</string>
+  <string name="lbl_cancel">Cancel</string>
+  <string name="msg_satisfy_your_cravings2">Satisfy your cravings
+ </string>
+</resources>
